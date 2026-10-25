@@ -1,0 +1,49 @@
+Illustrative sample session (the exact prompts may vary by terminal):
+
+=== LINKED LIST MANAGEMENT SYSTEM ===
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 1
+
+--- SINGLY LINKED LIST ---
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After a Value
+5. Insert Before a Value
+6. Delete from Beginning
+7. Delete from End
+8. Delete from Position
+9. Delete by Value
+10. Search
+11. Update a Value
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Back to Main Menu
+Enter your choice: 2
+Enter value: 10
+Node inserted at end.
+Enter your choice: 2
+Enter value: 20
+Node inserted at end.
+Enter your choice: 12
+10 -> 20 -> null
+Enter your choice: 13
+Total nodes: 2
+Enter your choice: 20
+
+=== LINKED LIST MANAGEMENT SYSTEM ===
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 4
+Thank you for using the system.
